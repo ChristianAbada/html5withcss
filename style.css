@@ -1,0 +1,18 @@
+p, 
+h1{
+    color:royalblue;
+}
+
+.ma-classe{
+    color: red;
+}
+
+ol{
+    color: blueviolet;
+    font-size: 18px;
+}
+
+ul{
+    color: green;
+    font-size: 20px;
+}
