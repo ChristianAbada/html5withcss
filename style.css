@@ -37,3 +37,12 @@ a{
     font-style: italic;
     font-weight: 600;
 }
+
+.banner{
+    padding: 100px ;
+    background: url(images/Woman.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 6px 6px 25px rgba(0,0,0,0.5);
+    border-radius: 10px 30px 0px 90px;
+}
