@@ -1,6 +1,13 @@
-p, 
+p{
+    color: brown;
+    font-family: 'Manrope', sans-serif;
+    font-size: 1.1em;
+}
+
 h1{
-    color:royalblue;
+    color: A5B4FC;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
 }
 
 .ma-classe{
@@ -9,10 +16,24 @@ h1{
 
 ol{
     color: blueviolet;
-    font-size: 18px;
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
 }
 
 ul{
     color: green;
-    font-size: 20px;
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
+}
+
+a{
+    color: royalblue;
+    text-decoration: none;
+    
+}
+
+.mots-parts{
+    color: #A5B4FC;
+    font-style: italic;
+    font-weight: 600;
 }
